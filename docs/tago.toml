@@ -1,0 +1,10 @@
+title       = "geocoder"
+baseURL     = "https://censusgeocoder-cli.tamnd.com/"
+description = "US Census Bureau Geocoder — address to coordinates"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/censusgeocoder-cli"
